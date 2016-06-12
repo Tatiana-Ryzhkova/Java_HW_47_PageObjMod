@@ -1,7 +1,6 @@
 package core;
 
 import static org.junit.Assert.*;
-//import static org.testng.Assert.assertTrue;
 
 import org.junit.After;
 import org.junit.AfterClass;

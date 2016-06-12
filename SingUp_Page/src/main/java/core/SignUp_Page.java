@@ -57,7 +57,7 @@ public class SignUp_Page
 	public void after(){		
 		driver.close();
 		driver.quit();
-		System.out.println("All Test Cases - DONE");
+		System.out.println("Finished");
 	}
 	
 	public  String getTitlePage (){
